@@ -1,4 +1,5 @@
-import { Divider, Grid } from '@material-ui/core';
+import Grid from '@mui/material/Grid';
+import Divider from '@mui/material/Divider';
 import React, { useState } from 'react';
 import useStyles from './styles';
 import CheckIcon from '@mui/icons-material/Check';

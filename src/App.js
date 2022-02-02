@@ -23,7 +23,9 @@ export default function App() {
             colors="green"
             descricao={[{ nome: 'descricao', icone: 'icone' }]}
             data={planos}
-            buttons={[{ titulo: 'Contrate já', icon: <RiSecurePaymentLine /> }]}
+            buttons={[
+              { titulo: 'Contrate já', icon: '<RiSecurePaymentLine />' },
+            ]}
             observacao="Aqui vai alguma observação"
           />
         </Grid>
