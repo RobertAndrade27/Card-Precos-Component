@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Grid from '@mui/material/Grid';
 import CardPlanos from './components/card_preco/index.jsx';
 import './style.css';
+import ShoppingCartOutlinedIcon from '@mui/icons-material/ShoppingCartOutlined';
 
 export default function App() {
   const planos = [
@@ -24,7 +25,7 @@ export default function App() {
             descricao={[{ nome: 'descricao', icone: 'icone' }]}
             data={planos}
             buttons={[
-              { titulo: 'Contrate já', icon: '<RiSecurePaymentLine />' },
+              { titulo: 'Contrate já', icon: <ShoppingCartOutlinedIcon /> },
             ]}
             observacao="Aqui vai alguma observação"
           />
