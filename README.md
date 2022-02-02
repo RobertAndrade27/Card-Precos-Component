@@ -1,5 +1,5 @@
 # Componente - React JS - Card de Planos    
-![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
+![alt text](https://i.ibb.co/XX2Mv45/final.jpg)
 
 
 ## Description
