@@ -3,8 +3,8 @@
 
 
 ## Description
-# Componente de Card de Preços e Planos
-# [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-w55dgk)
+Componente de Card de Preços e Planos
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-w55dgk)
 
 ```javascript
     <CardPlanos
